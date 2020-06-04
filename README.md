@@ -1,19 +1,19 @@
-# Best Resources of Deep Learning [![Best Resources](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Resources of Deep Learning [![Best Resources](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Table of Contents
 
-* **[Best Books](#best books)**
+* **[Books](#books)**
 
-* **[Best Videos and Lectures](#vbest ideos-and-lectures)**  
+* **[Videos and Lectures](#videos-and-lectures)**  
 
-* **[Best Tutorials](#best tutorials)**  
+* **[Tutorials](#tutorials)**  
 
-* **[Best Frameworks](#best frameworks)**  
+* **[Frameworks](#frameworks)**  
 
-* **[Best Tools](#best tools)**  
+* **[Tools](#tools)**  
 
 
-### Best Books
+### Books
 
 1.  [Deep Learning](http://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
 2.  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by  Michael Nielsen (Dec 2014)
@@ -29,7 +29,7 @@
 12. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - by Krishnendu Chaudhury
 
 
-### Best Videos and Lectures
+### Videos and Lectures
 
 1.  [How To Create A Mind](https://www.youtube.com/watch?v=RIkxVci-R4k) By Ray Kurzweil
 2.  [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) By Andrew Ng
@@ -54,7 +54,7 @@
 21. [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion): a live video course that teaches how to apply deep learning to text and images using the powerful Keras library and its R language interface.
 
 
-### Best Tutorials
+### Tutorials
 
 1.  [UFLDL Tutorial 1](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 2.  [UFLDL Tutorial 2](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)
@@ -87,7 +87,7 @@
 28. [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/)
 
 
-### Best Frameworks
+### Frameworks
 
 1. [PyTorch](https://github.com/pytorch/pytorch)
 2. [Tensorflow](https://github.com/tensorflow/tensorflow)
