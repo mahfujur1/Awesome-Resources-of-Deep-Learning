@@ -29,6 +29,8 @@
 12.[Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
 13. [Dive into Deep Learning](https://d2l.ai/) - numpy based interactive Deep Learning book
 14. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - by Krishnendu Chaudhury
+15. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+16. [grokking Deep Learning](https://cdn.ttgtmedia.com/rms/pdf/grokking_deep_learning.pdf)
 
 
 ### Videos and Lectures
