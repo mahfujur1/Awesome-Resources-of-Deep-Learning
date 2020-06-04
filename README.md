@@ -38,6 +38,31 @@
 13. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - by Krishnendu Chaudhury
 
 
+### Topics
+
+1. Machine Learning
+2. Activation and Loss Function
+3. Bias
+4. Perceptron
+5. Regression
+6. Gradient descent
+7. Generative Learning
+8. Support vector machines
+9. Backpropagation
+10. Deep Learning
+11. Optimization
+12. Long Short Term memory
+13. Convolutional Neural networks
+14. Recurrent NeurL Nets (RNNs)
+15. Reinforcement Learning
+16. Generative Adversarial Networks
+17. Multi-task Learning
+18. NLP
+19. Word Vectors
+20. Encoder-Decoder
+21. Tensorflow
+22. PyTorch
+23. Keras
 
 ### Videos and Lectures
 
