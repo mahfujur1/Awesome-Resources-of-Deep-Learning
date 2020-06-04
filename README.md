@@ -6,9 +6,9 @@
 
 * **[Videos and Lectures](#videos-and-lectures)**  
 
-* **[Frameworks](#frameworks)**  
-
 * **[Tutorials](#tutorials)**  
+
+* **[Frameworks](#frameworks)**  
 
 * **[Tools](#tools)**  
 
