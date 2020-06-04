@@ -57,6 +57,7 @@
 22. [MIT Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
 23. [MIT Introduction to Deep Learning](https://www.youtube.com/watch?v=njKP3FqW3Sk)
 24. [Introduction to Deep Learning](https://www.youtube.com/user/Zan560)
+25. [Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8)
 
 
 
