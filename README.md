@@ -8,6 +8,11 @@
 
 * **[Frameworks](#frameworks)**  
 
+* **[Tutorials](#tutorials)**  
+
+* **[Tools](#tools)**  
+
+
 ### Books
 
 1.  [Deep Learning](http://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
