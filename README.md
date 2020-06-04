@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* **[Books](#books)**
+* **[Best Books](#books)**
 
 * **[Videos and Lectures](#videos-and-lectures)**  
 
