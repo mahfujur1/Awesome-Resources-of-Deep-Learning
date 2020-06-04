@@ -4,15 +4,15 @@
 
 * **[Books](#books)**
 
-* **[Topics](#topics)**
+* **[Tutorials](#tutorials)**  
 
 * **[Videos and Lectures](#videos-and-lectures)**  
-
-* **[Tutorials](#tutorials)**  
 
 * **[Frameworks](#frameworks)**  
 
 * **[Tools](#tools)**  
+
+* **[Topics](#topics)**
 
 
 ### Books
@@ -32,31 +32,9 @@
 7. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - by Krishnendu Chaudhury
 
 
-### Topics
+### Tutorials
 
-1. Machine Learning
-2. Activation and Loss Function
-3. Bias
-4. Perceptron
-5. Regression
-6. Gradient descent
-7. Generative Learning
-8. Support vector machines
-9. Backpropagation
-10. Deep Learning
-11. Optimization
-12. Long Short Term memory
-13. Convolutional Neural networks
-14. Recurrent NeurL Nets (RNNs)
-15. Reinforcement Learning
-16. Generative Adversarial Networks
-17. Multi-task Learning
-18. NLP
-19. Word Vectors
-20. Encoder-Decoder
-21. Tensorflow
-22. PyTorch
-23. Keras
+1. [Over 200 of the Best Machine Learning, NLP, and Python Tutorials](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 
 ### Videos and Lectures
 
@@ -88,40 +66,6 @@
 
 
 
-### Tutorials
-
-1.  [UFLDL Tutorial 1](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
-2.  [UFLDL Tutorial 2](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)
-3.  [Deep Learning for NLP (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
-4.  [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
-5.  [Deep Learning from the Bottom up](http://www.metacademy.org/roadmaps/rgrosse/deep_learning)
-6.  [Theano Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
-7.  [Neural Networks for Matlab](http://uk.mathworks.com/help/pdf_doc/nnet/nnet_ug.pdf)
-8.  [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
-9.  [Torch7 Tutorials](https://github.com/clementfarabet/ipam-tutorials/tree/master/th_tutorials)
-10.  [The Best Machine Learning Tutorials On The Web](https://github.com/josephmisiti/machine-learning-module)
-11. [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
-12. [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
-13. [More TensorFlow tutorials](https://github.com/pkmital/tensorflow_tutorials)
-13. [TensorFlow Python Notebooks](https://github.com/aymericdamien/TensorFlow-Examples)
-14. [Keras and Lasagne Deep Learning Tutorials](https://github.com/Vict0rSch/deep_learning)
-15. [Classification on raw time series in TensorFlow with a LSTM RNN](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition)
-16. [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
-17. [TensorFlow-World](https://github.com/astorfi/TensorFlow-World)
-18. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
-19. [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
-20. [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search)
-21. [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
-22. [Pytorch Tutorial by Yunjey Choi](https://github.com/yunjey/pytorch-tutorial)
-23. [Understanding deep Convolutional Neural Networks with a practical use-case in Tensorflow and Keras](https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html)
-24. [Overview and benchmark of traditional and deep learning models in text classification](https://ahmedbesbes.com/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification.html)
-25. [Hardware for AI: Understanding computer hardware & build your own computer](https://github.com/MelAbgrall/HardwareforAI)
-26. [Programming Community Curated Resources](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
-27. [The Illustrated Self-Supervised Learning](https://amitness.com/2020/02/illustrated-self-supervised-learning/)
-28. [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/)
-29. [Over 200 of the Best Machine Learning, NLP, and Python Tutorials](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
-
-
 ### Frameworks
 
 1. [PyTorch](https://github.com/pytorch/pytorch)
@@ -144,3 +88,30 @@
 6. [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science.
 7.  [dowel](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Log any object to the console, CSVs, TensorBoard, text log files, and more with just one call to `logger.log()`
 8.  [Neptune](https://neptune.ml/) - Lightweight tool for experiment tracking and results visualization. 
+
+
+### Topics
+
+1. Machine Learning
+2. Activation and Loss Function
+3. Bias
+4. Perceptron
+5. Regression
+6. Gradient descent
+7. Generative Learning
+8. Support vector machines
+9. Backpropagation
+10. Deep Learning
+11. Optimization
+12. Long Short Term memory
+13. Convolutional Neural networks
+14. Recurrent NeurL Nets (RNNs)
+15. Reinforcement Learning
+16. Generative Adversarial Networks
+17. Multi-task Learning
+18. NLP
+19. Word Vectors
+20. Encoder-Decoder
+21. Tensorflow
+22. PyTorch
+23. Keras
