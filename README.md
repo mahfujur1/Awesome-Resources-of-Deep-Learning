@@ -2,15 +2,15 @@
 
 ## Table of Contents
 
-* **[Best Books](#books)**
+* **[Best Books](#best books)**
 
-* **[Videos and Lectures](#videos-and-lectures)**  
+* **[Best Videos and Lectures](#vbest ideos-and-lectures)**  
 
-* **[Tutorials](#tutorials)**  
+* **[Best Tutorials](#best tutorials)**  
 
-* **[Frameworks](#frameworks)**  
+* **[Best Frameworks](#best frameworks)**  
 
-* **[Tools](#tools)**  
+* **[Best Tools](#best tools)**  
 
 
 ### Best Books
