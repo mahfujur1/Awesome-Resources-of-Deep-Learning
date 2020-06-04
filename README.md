@@ -16,17 +16,19 @@
 ### Books
 
 1.  [Deep Learning](http://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
-2.  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by  Michael Nielsen (Dec 2014)
-3.  [Deep Learning](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) by Microsoft Research (2013)
-4.  [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf) by LISA lab, University of Montreal (Jan 6 2015)
-5.  [neuraltalk](https://github.com/karpathy/neuraltalk) by Andrej Karpathy : numpy-based RNN/LSTM implementation
-6.  [An introduction to genetic algorithms](http://www.boente.eti.br/fuzzy/ebook-fuzzy-mitchell.pdf)
-7.  [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
-8.  [Deep Learning in Neural Networks: An Overview](http://arxiv.org/pdf/1404.7828v4.pdf)
-9.  [Artificial intelligence and machine learning: Topic wise explanation](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
-10.[Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
-11. [Dive into Deep Learning](https://d2l.ai/) - numpy based interactive Deep Learning book
-12. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - by Krishnendu Chaudhury
+2.  [Deep Learning - A Practitioner's Approach](https://www.amazon.com.au/Deep-Learning-Practitioners-Josh-Patterson-ebook/dp/B074D5YF1D)
+3. [Deep Learning with PyTorch - Essential Excerpts](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
+4.  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by  Michael Nielsen (Dec 2014)
+5.  [Deep Learning](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) by Microsoft Research (2013)
+6.  [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf) by LISA lab, University of Montreal (Jan 6 2015)
+7.  [neuraltalk](https://github.com/karpathy/neuraltalk) by Andrej Karpathy : numpy-based RNN/LSTM implementation
+8.  [An introduction to genetic algorithms](http://www.boente.eti.br/fuzzy/ebook-fuzzy-mitchell.pdf)
+9.  [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
+10.  [Deep Learning in Neural Networks: An Overview](http://arxiv.org/pdf/1404.7828v4.pdf)
+11.  [Artificial intelligence and machine learning: Topic wise explanation](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
+12.[Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
+13. [Dive into Deep Learning](https://d2l.ai/) - numpy based interactive Deep Learning book
+14. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - by Krishnendu Chaudhury
 
 
 ### Videos and Lectures
