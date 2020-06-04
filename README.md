@@ -19,8 +19,8 @@
 
 #### Recommended
 1. [Deep Learning](http://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
-2. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
-3. [grokking Deep Learning](https://cdn.ttgtmedia.com/rms/pdf/grokking_deep_learning.pdf)
+2. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) by François Chollet
+3. [grokking Deep Learning](https://cdn.ttgtmedia.com/rms/pdf/grokking_deep_learning.pdf) by Andrew W. Trask
 
 #### Additional 
 1.  [Deep Learning - A Practitioner's Approach](https://www.amazon.com.au/Deep-Learning-Practitioners-Josh-Patterson-ebook/dp/B074D5YF1D)
