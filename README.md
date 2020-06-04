@@ -82,3 +82,83 @@
 26. [Programming Community Curated Resources](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
 27. [The Illustrated Self-Supervised Learning](https://amitness.com/2020/02/illustrated-self-supervised-learning/)
 28. [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/)
+
+
+### Frameworks
+
+1.  [Caffe](http://caffe.berkeleyvision.org/)  
+2.  [Torch7](http://torch.ch/)
+3.  [Theano](http://deeplearning.net/software/theano/)
+4.  [cuda-convnet](https://code.google.com/p/cuda-convnet2/)
+5.  [convetjs](https://github.com/karpathy/convnetjs)
+5.  [Ccv](http://libccv.org/doc/doc-convnet/)
+6.  [NuPIC](http://numenta.org/nupic.html)
+7.  [DeepLearning4J](http://deeplearning4j.org/)
+8.  [Brain](https://github.com/harthur/brain)
+9.  [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox)
+10.  [Deepnet](https://github.com/nitishsrivastava/deepnet)
+11.  [Deeppy](https://github.com/andersbll/deeppy)
+12.  [JavaNN](https://github.com/ivan-vasilev/neuralnetworks)
+13.  [hebel](https://github.com/hannes-brt/hebel)
+14.  [Mocha.jl](https://github.com/pluskid/Mocha.jl)
+15.  [OpenDL](https://github.com/guoding83128/OpenDL)
+16.  [cuDNN](https://developer.nvidia.com/cuDNN)
+17.  [MGL](http://melisgl.github.io/mgl-pax-world/mgl-manual.html)
+18.  [Knet.jl](https://github.com/denizyuret/Knet.jl)
+19.  [Nvidia DIGITS - a web app based on Caffe](https://github.com/NVIDIA/DIGITS)
+20.  [Neon - Python based Deep Learning Framework](https://github.com/NervanaSystems/neon)
+21.  [Keras - Theano based Deep Learning Library](http://keras.io)
+22.  [Chainer - A flexible framework of neural networks for deep learning](http://chainer.org/)
+23.  [RNNLM Toolkit](http://rnnlm.org/)
+24.  [RNNLIB - A recurrent neural network library](http://sourceforge.net/p/rnnl/wiki/Home/)
+25.  [char-rnn](https://github.com/karpathy/char-rnn)
+26.  [MatConvNet: CNNs for MATLAB](https://github.com/vlfeat/matconvnet)
+27.  [Minerva - a fast and flexible tool for deep learning on multi-GPU](https://github.com/dmlc/minerva)
+28.  [Brainstorm - Fast, flexible and fun neural networks.](https://github.com/IDSIA/brainstorm)
+29.  [Tensorflow - Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
+30.  [DMTK - Microsoft Distributed Machine Learning Tookit](https://github.com/Microsoft/DMTK)
+31.  [Scikit Flow - Simplified interface for TensorFlow (mimicking Scikit Learn)](https://github.com/google/skflow)
+32.  [MXnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning framework](https://github.com/apache/incubator-mxnet)
+33.  [Veles - Samsung Distributed machine learning platform](https://github.com/Samsung/veles)
+34.  [Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework](https://github.com/PrincetonVision/marvin)
+35.  [Apache SINGA - A General Distributed Deep Learning Platform](http://singa.incubator.apache.org/)
+36.  [DSSTNE - Amazon's library for building Deep Learning models](https://github.com/amznlabs/amazon-dsstne)
+37.  [SyntaxNet - Google's syntactic parser - A TensorFlow dependency library](https://github.com/tensorflow/models/tree/master/syntaxnet)
+38.  [mlpack - A scalable Machine Learning library](http://mlpack.org/)
+39.  [Torchnet - Torch based Deep Learning Library](https://github.com/torchnet/torchnet)
+40.  [Paddle - PArallel Distributed Deep LEarning by Baidu](https://github.com/baidu/paddle)
+41.  [NeuPy - Theano based Python library for ANN and Deep Learning](http://neupy.com)
+42.  [Lasagne - a lightweight library to build and train neural networks in Theano](https://github.com/Lasagne/Lasagne)
+43.  [nolearn - wrappers and abstractions around existing neural network libraries, most notably Lasagne](https://github.com/dnouri/nolearn)
+44.  [Sonnet - a library for constructing neural networks by Google's DeepMind](https://github.com/deepmind/sonnet)
+45.  [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch)
+46.  [CNTK - Microsoft Cognitive Toolkit](https://github.com/Microsoft/CNTK)
+47.  [Serpent.AI - Game agent framework: Use any video game as a deep learning sandbox](https://github.com/SerpentAI/SerpentAI)
+48.  [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework](https://github.com/caffe2/caffe2)
+49.  [deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web](https://github.com/PAIR-code/deeplearnjs)
+50.  [TVM - End to End Deep Learning Compiler Stack for CPUs, GPUs and specialized accelerators](https://tvm.ai/)
+51.  [Coach - Reinforcement Learning Coach by Intel® AI Lab](https://github.com/NervanaSystems/coach)
+52.  [albumentations - A fast and framework agnostic image augmentation library](https://github.com/albu/albumentations)
+53.  [Neuraxle - A general-purpose ML pipelining framework](https://github.com/Neuraxio/Neuraxle)
+54.  [Catalyst: High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing](https://github.com/catalyst-team/catalyst)
+55.  [garage - A toolkit for reproducible reinforcement learning research](https://github.com/rlworkgroup/garage)
+56.  [Detecto - Train and run object detection models with 5-10 lines of code](https://github.com/alankbi/detecto)
+57.  [Karate Club - An unsupervised machine learning library for graph structured data](https://github.com/benedekrozemberczki/karateclub)
+58.  [Synapses - A lightweight library for neural networks that runs anywhere](https://github.com/mrdimosthenis/Synapses)
+59.  [TensorForce - A TensorFlow library for applied reinforcement learning](https://github.com/reinforceio/tensorforce)
+60.  [Hopsworks - A Feature Store for ML and Data-Intensive AI](https://github.com/logicalclocks/hopsworks)
+61.  [Feast - A Feature Store for ML for GCP by Gojek/Google](https://github.com/gojek/feast)
+
+
+
+
+### Tools
+
+1.  [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models
+2.  [Jupyter Notebook](http://jupyter.org) - Web-based notebook environment for interactive computing
+3.  [TensorBoard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
+4.  [Visual Studio Tools for AI](https://visualstudio.microsoft.com/downloads/ai-tools-vs) - Develop, debug and deploy deep learning and AI solutions
+5.  [TensorWatch](https://github.com/microsoft/tensorwatch) - Debugging and visualization for deep learning
+6. [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science.
+7.  [dowel](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Log any object to the console, CSVs, TensorBoard, text log files, and more with just one call to `logger.log()`
+8.  [Neptune](https://neptune.ml/) - Lightweight tool for experiment tracking and results visualization. 
