@@ -32,10 +32,9 @@
 5. [Dive into Deep Learning](https://d2l.ai/) - numpy based interactive Deep Learning book
 6. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - by Krishnendu Chaudhury
 7. [Deep Learning with JavaScript Neural networks in TensorFlow.js](https://www.manning.com/books/deep-learning-with-javascript)
-
-#### Extra 
-1. [Clean Code: A Handbook of Agile Software Craftsmanship Paperback – Aug. 1 2008](https://www.pdfdrive.com/clean-code-a-handbook-of-agile-software-craftsmanship-the-object-mentors-d45310217.html) - Code
-2. [The Clean Coder: A Code of Conduct for Professional Programmers Paperback](https://www.amazon.ca/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) - Code
+ 
+8. [Clean Code: A Handbook of Agile Software Craftsmanship Paperback – Aug. 1 2008](https://www.pdfdrive.com/clean-code-a-handbook-of-agile-software-craftsmanship-the-object-mentors-d45310217.html) - Code
+9. [The Clean Coder: A Code of Conduct for Professional Programmers Paperback](https://www.amazon.ca/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) - Code
 
 
 ### Courses 
