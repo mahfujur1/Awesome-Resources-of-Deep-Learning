@@ -4,6 +4,8 @@
 
 * **[Books](#books)**
 
+* **[Courses](#courses)**
+
 * **[Tutorials](#tutorials)**  
 
 * **[Videos and Lectures](#videos-and-lectures)**  
@@ -12,24 +14,41 @@
 
 * **[Tools](#tools)**  
 
-* **[Topics](#topics)**
-
-
 ### Books
 
 #### Recommended
-1. [Deep Learning](http://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
-2. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) by François Chollet
-3. [grokking Deep Learning](https://cdn.ttgtmedia.com/rms/pdf/grokking_deep_learning.pdf) by Andrew W. Trask
+1. [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville ](http://www.deeplearningbook.org/) - Math, Theory, Build
+2. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) by François Chollet - Code, Theory, Build
+3. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) - Code, Theory, Build
+4. [grokking Deep Learning by Andrew W. Trask](https://cdn.ttgtmedia.com/rms/pdf/grokking_deep_learning.pdf) - Code, Theory, Build
+5. [Neural Networks and Deep Learning by Michael Nielsen (Dec 2014)](http://neuralnetworksanddeeplearning.com/) - Code, Math, Theory, Build
+
 
 #### Additional 
 1.  [Deep Learning - A Practitioner's Approach](https://www.amazon.com.au/Deep-Learning-Practitioners-Josh-Patterson-ebook/dp/B074D5YF1D)
 2. [Deep Learning with PyTorch - Essential Excerpts](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
-3.  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by  Michael Nielsen (Dec 2014)
-4.  [Deep Learning](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) by Microsoft Research (2013)
-5. [Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
-6. [Dive into Deep Learning](https://d2l.ai/) - numpy based interactive Deep Learning book
-7. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - by Krishnendu Chaudhury
+3.  [Deep Learning](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) by Microsoft Research (2013)
+4. [Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
+5. [Dive into Deep Learning](https://d2l.ai/) - numpy based interactive Deep Learning book
+6. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - by Krishnendu Chaudhury
+7. [Deep Learning with JavaScript Neural networks in TensorFlow.js](https://www.manning.com/books/deep-learning-with-javascript)
+
+
+### Courses 
+
+1. [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
+2. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
+3. [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+4. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+5. [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/index.html)
+6. [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com)
+7. [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) - Math concept
+8. [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning?source=deprecated_spark_cdp) - Math concept
+9. [Deep Learning -3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - Math concept
+10. [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Math concept
+11. [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) - Math concept
+12. [MIT Course 18.06 Liner Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)- Math concept
+13. [MIT Coourse Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)- Math concept
 
 
 ### Tutorials
@@ -89,29 +108,3 @@
 7.  [dowel](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Log any object to the console, CSVs, TensorBoard, text log files, and more with just one call to `logger.log()`
 8.  [Neptune](https://neptune.ml/) - Lightweight tool for experiment tracking and results visualization. 
 
-
-### Topics
-
-1. Machine Learning
-2. Activation and Loss Function
-3. Bias
-4. Perceptron
-5. Regression
-6. Gradient descent
-7. Generative Learning
-8. Support vector machines
-9. Backpropagation
-10. Deep Learning
-11. Optimization
-12. Long Short Term memory
-13. Convolutional Neural networks
-14. Recurrent NeurL Nets (RNNs)
-15. Reinforcement Learning
-16. Generative Adversarial Networks
-17. Multi-task Learning
-18. NLP
-19. Word Vectors
-20. Encoder-Decoder
-21. Tensorflow
-22. PyTorch
-23. Keras
