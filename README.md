@@ -33,6 +33,10 @@
 6. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - by Krishnendu Chaudhury
 7. [Deep Learning with JavaScript Neural networks in TensorFlow.js](https://www.manning.com/books/deep-learning-with-javascript)
 
+#### Extra 
+1. [Clean Code: A Handbook of Agile Software Craftsmanship Paperback – Aug. 1 2008](https://www.pdfdrive.com/clean-code-a-handbook-of-agile-software-craftsmanship-the-object-mentors-d45310217.html)
+2. []
+
 
 ### Courses 
 
@@ -54,6 +58,7 @@
 ### Tutorials
 
 1. [Over 200 of the Best Machine Learning, NLP, and Python Tutorials](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
+2. [The Clean Coder: A Code of Conduct for Professional Programmers Paperback](https://www.amazon.ca/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
 ### Videos and Lectures
 
