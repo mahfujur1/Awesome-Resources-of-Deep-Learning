@@ -57,7 +57,7 @@
 ### Tutorials
 
 1. [Over 200 of the Best Machine Learning, NLP, and Python Tutorials](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
-2. [The Clean Coder: A Code of Conduct for Professional Programmers Paperback](https://www.amazon.ca/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+
 
 ### Videos and Lectures
 
